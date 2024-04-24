@@ -18,8 +18,6 @@
 </div>
 </br>
 
-![Cauã GitHub stats](https://github-readme-stats.vercel.app/api?username=caua075&show_icons=true&theme=dark)
-
 <p>_________________________________________________________________________</p>
 
 #### My Socials:
