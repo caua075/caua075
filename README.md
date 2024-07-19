@@ -1,10 +1,22 @@
-## Hello! I am Cauã de Andrade 👋
+## Olá! Eu sou Cauã de Andrade 👋
 
-### Software Developer 🖥️
-<p style = "font-family:courier,arial,helvetica;">Information Systems Student 📚 |  Federal Institute of São Paulo 🏫</p>
+Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado pela área de dados. Aqui você encontrará alguns dos projetos em que estou trabalhando e minhas contribuições para a comunidade de código aberto. Atualmente estou cursando Bacharelado em Sistemas da Informação pelo Instituto Federal de São Paulo
+
+## Sobre Mim
+
+- 🌱 Atualmente estou aprendendo: Ruby, PHP e Power BI
+- 🤔 Estou procurando ajuda com: Análise de Dados
+- 📫 Como me encontrar: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cau%C3%A3-de-andrade-998431236/)
+[![Twitter](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caua.andradeg07@gmail.com)
+- 😄 Pronomes: Ele/Dele
+
+## Minha Paixão por Dados
+
+Desde que comecei minha jornada na área de tecnologia, fiquei fascinado pelo poder dos dados. A capacidade de transformar números e informações brutas em insights acionáveis sempre me intrigou. Estou constantemente explorando novas ferramentas e técnicas para análise de dados, aprendizado de máquina e visualização de dados.
 <p>_________________________________________________________________________</p>
 
-### Technologies and Tools 🔧
+
+### Tecnologias e Ferramentas 🔧
 
 <div style="display: inline_block"></br>
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -17,10 +29,3 @@
     <img align="center" alt="SO Linux" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=white"/>
 </div>
 </br>
-
-<p>_________________________________________________________________________</p>
-
-#### My Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cau%C3%A3-de-andrade-998431236/)
-[![Twitter](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caua.andradeg07@gmail.com)
